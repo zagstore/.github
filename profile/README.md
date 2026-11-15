@@ -24,8 +24,10 @@ Participation is entirely voluntary, and joining our organisation does not imply
 
 ### Get involved
 
-- **Source code:** [Zag Store](https://github.com/zagstore/zag-store)
 - **Website:** [zagstore.app](https://zagstore.app)
+- **Community Discord:** [discord.zagstore.app](https://discord.zagstore.app)
+- **Source code:** [Zag Store](https://github.com/zagstore/zag-store)
+- **Official releases:** [Zag Store Releases](https://github.com/zagstore/zag-store-releases)
 - **Issues and contributions:** [GitHub Issues](https://github.com/zagstore/zag-store/issues)
 
 ---
